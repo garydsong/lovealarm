@@ -18,6 +18,8 @@ As Sam’s loverboy, I want to wake up at the exact same time as him even when w
 ## ***Read Alarm***
 
 <img src=https://i.imgur.com/ijFmc3Z.gif>
+<br>
+<img src=https://i.imgur.com/6S9v6bx.gif>
 
 **User Story**
 
