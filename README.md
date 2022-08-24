@@ -2,8 +2,11 @@
 LOVE ALARM
 
 ***Create Alarm***
+
 **User Story**
+
 As Sam’s loverboy, I want to wake up at the exact same time as him even when we’re apart so that I can feel like our hearts are connected by our consciousness.
+
 **Acceptance Criteria**
 - [ ] A linked connecting between Sam(User1) and Me(User2)
 - [ ] When setting the alarm it sets for both. 
