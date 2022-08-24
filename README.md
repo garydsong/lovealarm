@@ -3,6 +3,8 @@
 
 ## ***Create Alarm***
 
+<img src=https://i.imgur.com/z0mz1OM.gif>
+
 **User Story**
 
 As Sam’s loverboy, I want to wake up at the exact same time as him even when we’re apart so that I can feel like our hearts are connected by our consciousness.
