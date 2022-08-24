@@ -1,7 +1,7 @@
-# lovealarm
-LOVE ALARM
+# LOVE ALARM
 
-***Create Alarm***
+
+## ***Create Alarm***
 
 **User Story**
 
