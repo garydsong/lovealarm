@@ -1,0 +1,94 @@
+html,body {
+    height: 100%;
+}
+
+body {
+    background: #0f3854;
+    background: radial-gradient(ellipse at center,  #0a2e38  0%, #000000 70%);
+    background-size: 100%;
+}
+
+#settings {
+    font-family: 'Share Tech Mono', monospace;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+    color: rgb(218, 246, 255);
+    text-shadow: 0 0 20px rgba(10, 175, 230, 1),  0 0 20px rgba(10, 175, 230, 0);
+}
+
+#not-num {
+    background-color: rgba(10, 175, 230, 1);
+    border: rgba(10, 175, 230, 1) solid 3px;
+    border-radius: 40px;
+    font-size: 12px;
+    margin-right: 1px;
+}
+
+
+#login:hover {
+    color: white;
+    cursor: pointer;
+}
+
+#set:hover {
+    color: white;
+    cursor: pointer;
+}
+
+#ping:hover {
+    color: white;
+    cursor: pointer;
+}
+
+#notifs:hover {
+    color: white;
+    cursor: pointer;
+}
+
+
+p {
+    margin: 0;
+    padding: 0;
+}
+#clock {
+    font-family: 'Share Tech Mono', monospace;
+    color: #ffffff;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(218, 246, 255);
+    text-shadow: 0 0 20px rgba(10, 175, 230, 1),  0 0 20px rgba(10, 175, 230, 0);
+}
+
+#awake-toggle:hover {
+    color: white;
+    cursor: pointer;
+}
+
+#on-toggle:hover {
+    color: white;
+    cursor: pointer;
+}
+
+#bot-set {
+    font-family: 'Share Tech Mono', monospace;
+    color: #ffffff;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 90%;
+    transform: translate(-50%, -50%);
+    color: rgb(218, 246, 255);
+    text-shadow: 0 0 20px rgba(10, 175, 230, 1),  0 0 20px rgba(10, 175, 230, 0);
+}
+
+#light-toggle:hover {
+    color: white;
+    cursor: pointer;
+}

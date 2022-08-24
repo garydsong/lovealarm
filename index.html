@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="./favico/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="./favico/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="./favico/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+  <title>Love Alarm</title>
+</head>
+
+<body id="bod">
+  <header>
+    <div id="settings">
+      <span id="login">Login</span> |
+      <span id="set">Set Alarm</span> |
+      <span id="ping">Ping Sam</span> |
+      <span id="notifs"><span id="not-num">25</span> Notifications</span>
+
+    </div>
+  </header>
+  <div id="clock">
+
+    <p class="date">
+    <div id="DigitalCLOCK" class="clock" onload="showTime()"></div>
+    </p>
+    <p class="time">Sam is: <span id="awake-toggle">awake</span></p>
+    <p class="text">Alarm is: <span id="on-toggle">ON</span></p>
+  </div>
+  <footer>
+    <div id="bot-set">
+      <span id="light-toggle">GOOD MORNING</span>
+    </div>
+  </footer>
+  <script src="main.js"></script>
+  <script src="main2.js"></script>
+</body>
+
+</html>
