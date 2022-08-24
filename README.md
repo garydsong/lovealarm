@@ -30,7 +30,7 @@ As Sam’s loverboy, I want to be able to clearly see the time and when he is as
 
 ## ***Update Alarm***
 
-###**User Story**
+**User Story**
 
 As Sam’s loverboy, I want to have the option of changing the alarm time, and set multiple if needed. 
 
@@ -43,7 +43,7 @@ As Sam’s loverboy, I want to have the option of changing the alarm time, and s
 
 ## ***Delete/Disable Alarm***
 
-###**User Story**
+**User Story**
 
 As Sam’s loverboy, I want to be able to delete or disable an alarm set for the days that we want to sleep in.
 
