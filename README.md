@@ -7,7 +7,7 @@ https://lovealarm.netlify.app/
 
 **User Story**
 
-As Sam’s loverboy, I want to wake up at the exact same time as him even when we’re apart so that I can feel like our hearts are connected by our consciousness.
+As someone who loves Sam, I want to wake up at the exact same time as him even when we’re apart so that I can feel like our hearts are connected by our consciousness.
 
 **Acceptance Criteria**
 - [ ] A linked connecting between Sam(User1) and Me(User2)
@@ -25,7 +25,7 @@ As Sam’s loverboy, I want to wake up at the exact same time as him even when w
 
 **User Story**
 
-As Sam’s loverboy, I want to be able to clearly see the time and when he is asleep or awake and vice versa. 
+As someone who loves Sam, I want to be able to clearly see the time and when he is asleep or awake and vice versa. 
 
 **Acceptance Criteria**
 - [ ] Interface must be font-face bold and clear
@@ -38,7 +38,7 @@ As Sam’s loverboy, I want to be able to clearly see the time and when he is as
 
 **User Story**
 
-As Sam’s loverboy, I want to have the option of changing the alarm time, and set multiple if needed. 
+As someone who loves Sam, I want to have the option of changing the alarm time, and set multiple if needed. 
 
 **Acceptance Criteria**
 - [ ] Backend stores on localStorage to keep consistent times in place.
@@ -53,7 +53,7 @@ As Sam’s loverboy, I want to have the option of changing the alarm time, and s
 
 **User Story**
 
-As Sam’s loverboy, I want to be able to delete or disable an alarm set for the days that we want to sleep in.
+As someone who loves Sam, I want to be able to delete or disable an alarm set for the days that we want to sleep in.
 
 **Acceptance Criteria**
 - [ ] Enable a subtle notification for “I’m awake” toggle.
