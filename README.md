@@ -16,8 +16,11 @@ As Sam’s loverboy, I want to wake up at the exact same time as him even when w
 
 
 ## ***Read Alarm***
-###**User Story**
+
+**User Story**
+
 As Sam’s loverboy, I want to be able to clearly see the time and when he is asleep or awake and vice versa. 
+
 **Acceptance Criteria**
 - [ ] Interface must be font-face bold and clear
 - [ ] Have a “I’m asleep” manual toggle.
@@ -26,8 +29,11 @@ As Sam’s loverboy, I want to be able to clearly see the time and when he is as
 
 
 ## ***Update Alarm***
+
 ###**User Story**
+
 As Sam’s loverboy, I want to have the option of changing the alarm time, and set multiple if needed. 
+
 **Acceptance Criteria**
 - [ ] Backend stores on localStorage to keep consistent times in place.
 - [ ] When selecting a new time, have nice smooth transitions between the two interfaces.
@@ -36,8 +42,11 @@ As Sam’s loverboy, I want to have the option of changing the alarm time, and s
 
 
 ## ***Delete/Disable Alarm***
+
 ###**User Story**
+
 As Sam’s loverboy, I want to be able to delete or disable an alarm set for the days that we want to sleep in.
+
 **Acceptance Criteria**
 - [ ] Enable a subtle notification for “I’m awake” toggle.
 - [ ] When deleting or disabling a time, have an “Are you sure?” verification window pop up.
