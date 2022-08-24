@@ -37,7 +37,7 @@ lightswitch.addEventListener('click', () => {
     if (onoff3 !== "on") {
         onoff3 = "on";
         lightswitch.style.color = 'gray';
-        lightswitch.innerText = 'GOOD MORNING';
+        lightswitch.innerText = 'GOOD NIGHT';
         bod.style.background = 'gold';
         bod.style.background = 'radial-gradient(ellipse at center,  rgb(255, 245, 153)  0%, white 70%)';
         clock.style.color = 'black';
