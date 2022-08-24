@@ -17,6 +17,8 @@ As Sam’s loverboy, I want to wake up at the exact same time as him even when w
 
 ## ***Read Alarm***
 
+<img src=https://i.imgur.com/ijFmc3Z.gif>
+
 **User Story**
 
 As Sam’s loverboy, I want to be able to clearly see the time and when he is asleep or awake and vice versa. 
