@@ -49,6 +49,8 @@ As Sam’s loverboy, I want to have the option of changing the alarm time, and s
 
 ## ***Delete/Disable Alarm***
 
+<img src=https://i.imgur.com/HEMyYPX.gif>
+
 **User Story**
 
 As Sam’s loverboy, I want to be able to delete or disable an alarm set for the days that we want to sleep in.
